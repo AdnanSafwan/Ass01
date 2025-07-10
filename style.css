@@ -46,6 +46,7 @@
     margin-left: 100px;
     width: 403px;
     height: 328px;
+    border-radius: 50px;
 }
 .p1{
     font-size: 42px;
@@ -106,5 +107,25 @@
     margin-left: 70px;
 }
 .main6{
+    margin-top: 200px;
+}
+.p233{
+    font-size: 42px;
+    font-weight: bold;
+    text-align: center;
+}
+.p555{
+    text-align: center;
+    margin-top: -20px;
+}
+.btn555{
+    margin-left: 650px;
+}
+.img555{
+    margin-left: 330px;
+    margin-top: 30px;
+    border-radius: 50px;
+}
+.main555{
     margin-top: 200px;
 }
