@@ -19,6 +19,15 @@
     font-size: 16px;
     border: none;
     cursor: pointer;
+    animation: pulse 1.4s ease-in-out infinite;
+}
+@keyframes pulse {
+    0%
+    {
+        box-shadow: 0 0 25px #5ddcff,
+        0 0 50px #4e00c2;
+    }
+    
 }
 .top-div{
     display: flex;
@@ -147,7 +156,33 @@
     margin-top: -200px;
 }
 .main2025{
-    margin-left: 200px;
+    margin-left: 50px;
     margin-top: 200px;
+    background-color: aliceblue;
+    padding: 20px;
     
+}
+.p3030{
+    font-size: 100px;
+    font-weight: bold;
+    color: blue;
+    text-align: center;
+}
+.p3031{
+    text-align: center;
+    color: rgb(100, 98, 98);
+    margin-top: -80px;
+
+}
+.div3050{
+    text-align: center;
+    
+}
+.a3{
+    color: rgb(100, 98, 98);
+    border: none;
+    margin-left: 10px;
+}
+.foot1{
+    margin-top: 350px;
 }
